@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Declairfayt</h1>
 <h3 align="center">A passionate full stack developer from Bruxelles</h3>
 
-- 🌱 I’m currently learning **Laravel/TypeScript/GraphQL**
+- 🌱 I’m currently learning **TypeScript/GraphQL/Kotlin**
 
 - 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
