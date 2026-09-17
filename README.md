@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Rust/System Design**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
-
 - 📫 How to reach me **simon.declairfayt@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
